@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+h1 {
+    color: #00f;
+}
+a {
+    color: blueviolet;
+    font-weight: 1000;
+    font-style: normal;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}

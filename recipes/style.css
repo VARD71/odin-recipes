@@ -1,0 +1,30 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+    margin: auto;
+}
+img {
+    height: auto;
+    width: 500px;
+}
+ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+ol {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+li {
+    text-align: left;
+    padding: 2px 5px;
+    border: 1px solid black;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: green;
+}
